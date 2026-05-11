@@ -3,7 +3,7 @@
 
 <h3>🔐 Low-F Autism </h3>
 
- <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&pause=2000&color=2b2b2b&width=700&lines=Web%20Penetration%20Tester;Bug%20Hunter;Prompt%20Engineering" />
+ <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&pause=2000&color=2b2b2b&width=700&lines=Web%20Penetration%20Tester;Bug%20Hunter;" />
 
 ### Tools I Play With
 <div align="center">
